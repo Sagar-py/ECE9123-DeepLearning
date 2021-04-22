@@ -1,2 +1,11 @@
-# ECE9123-DeepLearning
-Coursework repository for ECE-GY 9123 Deep Learning at NYU Tandon School of Engineering (Spring 2021).
+# ECE-GY 9123 | Deep Learning
+
+**Name:** Sagar Patel
+
+Spring 2021
+
+**Course Instructor:** [Dr. Chinmay Hegde](https://chinmayhegde.github.io/)
+
+---
+
+## List of topics
